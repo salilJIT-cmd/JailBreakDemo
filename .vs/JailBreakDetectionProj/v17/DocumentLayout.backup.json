@@ -1,34 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\",
+  "WorkspaceRootPath": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\dialogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\jailbreakdetectionproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\jailbreakdetectionproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\jailbreakdetectionproj.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\sahil\\source\\repos\\jailbreakdetectionproj\\jailbreakdetectionproj\\myjailbreakdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\myjailbreakdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|c:\\users\\salildeogade\\source\\repos\\jailbreakdemo\\jailbreakdetectionproj\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{12CD8F4B-ED0D-444B-BCF1-97F4E71C6B6A}|JailBreakDetectionProj\\JailBreakDetectionProj.csproj|solutionrelative:jailbreakdetectionproj\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,82 +34,69 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DialogService.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\DialogService.cs",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\DialogService.cs",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\DialogService.cs",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\DialogService.cs",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\DialogService.cs",
               "RelativeToolTip": "JailBreakDetectionProj\\DialogService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T15:33:01.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "MainPage.xaml",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainPage.xaml",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\MainPage.xaml",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainPage.xaml",
               "RelativeToolTip": "JailBreakDetectionProj\\MainPage.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-03-09T15:21:57.587Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainViewModel.cs",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\MainViewModel.cs",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainViewModel.cs",
               "RelativeToolTip": "JailBreakDetectionProj\\MainViewModel.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T15:07:31.025Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "JailBreakDetectionProj.csproj",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
               "RelativeToolTip": "JailBreakDetectionProj\\JailBreakDetectionProj.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2025-03-09T10:07:58.213Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "MyJailBreakDetector.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MyJailBreakDetector.cs",
-              "RelativeDocumentMoniker": "JailBreakDetectionProj\\MyJailBreakDetector.cs",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MyJailBreakDetector.cs",
-              "RelativeToolTip": "JailBreakDetectionProj\\MyJailBreakDetector.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T10:05:12.511Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 3,
               "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MauiProgram.cs",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MauiProgram.cs",
               "RelativeToolTip": "JailBreakDetectionProj\\MauiProgram.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAApwCAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T10:01:29.623Z",
               "EditorCaption": ""
@@ -122,11 +105,11 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "MainPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "JailBreakDetectionProj\\MainPage.xaml.cs",
-              "ToolTip": "C:\\Users\\sahil\\source\\repos\\JailBreakDetectionProj\\JailBreakDetectionProj\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\SalilDeogade\\source\\repos\\JailBreakDemo\\JailBreakDetectionProj\\MainPage.xaml.cs",
               "RelativeToolTip": "JailBreakDetectionProj\\MainPage.xaml.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAxwBAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T10:00:31.596Z",
               "EditorCaption": ""

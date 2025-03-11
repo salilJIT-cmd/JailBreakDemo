@@ -12,35 +12,37 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = JailBreakDetectionProj
-build_property.ProjectDir = C:\Users\sahil\source\repos\JailBreakDetectionProj\JailBreakDetectionProj\
+build_property.ProjectDir = C:\Users\SalilDeogade\source\repos\JailBreakDemo\JailBreakDetectionProj\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/sahil/source/repos/JailBreakDetectionProj/JailBreakDetectionProj/App.xaml]
+[C:/Users/SalilDeogade/source/repos/JailBreakDemo/JailBreakDetectionProj/App.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JailBreakDetectionProj.App.xaml
 build_metadata.AdditionalFiles.TargetPath = App.xaml
 build_metadata.AdditionalFiles.RelativePath = App.xaml
 
-[C:/Users/sahil/source/repos/JailBreakDetectionProj/JailBreakDetectionProj/AppShell.xaml]
+[C:/Users/SalilDeogade/source/repos/JailBreakDemo/JailBreakDetectionProj/AppShell.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JailBreakDetectionProj.AppShell.xaml
 build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
 build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
 
-[C:/Users/sahil/source/repos/JailBreakDetectionProj/JailBreakDetectionProj/MainPage.xaml]
+[C:/Users/SalilDeogade/source/repos/JailBreakDemo/JailBreakDetectionProj/MainPage.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JailBreakDetectionProj.MainPage.xaml
 build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
 build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
 
-[C:/Users/sahil/source/repos/JailBreakDetectionProj/JailBreakDetectionProj/Resources/Styles/Colors.xaml]
+[C:/Users/SalilDeogade/source/repos/JailBreakDemo/JailBreakDetectionProj/Resources/Styles/Colors.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JailBreakDetectionProj.Resources.Styles.Colors.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
 build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
 
-[C:/Users/sahil/source/repos/JailBreakDetectionProj/JailBreakDetectionProj/Resources/Styles/Styles.xaml]
+[C:/Users/SalilDeogade/source/repos/JailBreakDemo/JailBreakDetectionProj/Resources/Styles/Styles.xaml]
 build_metadata.AdditionalFiles.GenKind = Xaml
 build_metadata.AdditionalFiles.ManifestResourceName = JailBreakDetectionProj.Resources.Styles.Styles.xaml
 build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml

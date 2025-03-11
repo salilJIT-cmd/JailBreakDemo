@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JailBreakDetectionProj")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+140c56183ba28cc735e54be05cd80594e2549e5c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d13fa57888e93bab8e74037ed116feeed1ceb024")]
 [assembly: System.Reflection.AssemblyProductAttribute("JailBreakDetectionProj")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JailBreakDetectionProj")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

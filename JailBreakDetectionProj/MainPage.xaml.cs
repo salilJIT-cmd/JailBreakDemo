@@ -1,16 +1,19 @@
-﻿using banditoth.MAUI.JailbreakDetector.Interfaces;
+﻿using Microsoft.Maui.Controls;
 
 namespace JailBreakDetectionProj
 {
     public partial class MainPage : ContentPage
     {
         int count = 0;
-        private readonly IJailbreakDetector _jailbreakDetector;
 
         public MainPage()
         {
             InitializeComponent();
+
+            #if ANDROID || IOS
+            // Resolve IJailbreakDetector for Android/iOS
             BindingContext = IPlatformApplication.Current.Services.GetRequiredService<MainViewModel>();
+            #endif
         }
 
         private void OnCounterClicked(object sender, EventArgs e)
@@ -25,5 +28,4 @@ namespace JailBreakDetectionProj
             SemanticScreenReader.Announce(CounterBtn.Text);
         }
     }
-
 }

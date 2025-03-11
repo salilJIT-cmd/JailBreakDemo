@@ -1,14 +1,14 @@
-﻿using banditoth.MAUI.JailbreakDetector;
-using banditoth.MAUI.JailbreakDetector.Interfaces;
+﻿using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
 
-
+#if ANDROID || IOS
+using banditoth.MAUI.JailbreakDetector;
+#endif
 
 namespace JailBreakDetectionProj
 {
     public static class MauiProgram
     {
-
         public static MauiApp CreateMauiApp()
         {
             var builder = MauiApp.CreateBuilder();
@@ -18,18 +18,25 @@ namespace JailBreakDetectionProj
                 {
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
-                }).ConfigureJailbreakProtection(configuration =>
-                {
-                    configuration.MaximumPossibilityPercentage = 20;
-                    configuration.MaximumWarningCount = 1;
-                    configuration.CanThrowException = true;
                 });
-#if DEBUG
-            builder.Logging.AddDebug();
-            builder.Services.AddSingleton<IDialogService, DialogService>();
 
+            #if ANDROID || IOS
+            // Configure jailbreak protection for Android/iOS only
+            builder.ConfigureJailbreakProtection(configuration =>
+            {
+                configuration.MaximumPossibilityPercentage = 20;
+                configuration.MaximumWarningCount = 1;
+                configuration.CanThrowException = true;
+            });
+            #endif
+
+            #if DEBUG
+            builder.Logging.AddDebug();
+            #endif
+
+            // Register services for all platforms
+            builder.Services.AddSingleton<IDialogService, DialogService>();
             builder.Services.AddTransient<MainViewModel>();
-#endif
 
             return builder.Build();
         }
